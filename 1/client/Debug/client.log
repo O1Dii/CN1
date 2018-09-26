@@ -1,0 +1,3 @@
+﻿  client.cpp
+d:\учёба\проекты visual studio\кс\1\client\client.cpp(35): warning C4101: hui: неиспользованная локальная переменная
+  client.vcxproj -> D:\Учёба\проекты visual studio\кс\1\Debug\client.exe
